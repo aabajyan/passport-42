@@ -1,8 +1,7 @@
-Makefile
 docs/
 examples/
-reports/
 test/
+dist/
 
 .jshintrc
 .travis.yml
